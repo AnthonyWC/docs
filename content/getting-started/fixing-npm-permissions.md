@@ -70,3 +70,7 @@ Instead of steps 2-4 you can also use the corresponding ENV variable (e.g. if yo
 If you're doing a fresh install of node on Mac OS you can avoid this problem altogether by using the [Homebrew](http://brew.sh) package manager.  Homebrew sets things up out of the box with the correct permissions.
 
     brew install node
+
+If you're using Linux, you are use NVM (Node Version Manager) to manage version specific global package.
+
+    See: https://github.com/creationix/nvm
