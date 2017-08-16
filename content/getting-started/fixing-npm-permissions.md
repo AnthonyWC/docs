@@ -71,6 +71,6 @@ If you're doing a fresh install of node on Mac OS you can avoid this problem alt
 
     brew install node
 
-If you're using Linux, you are use NVM (Node Version Manager) to manage version specific global package.
+If you're using Linux, you can use NVM (Node Version Manager) to manage version specific global package.
 
     See: https://github.com/creationix/nvm
